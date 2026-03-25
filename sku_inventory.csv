@@ -1,0 +1,13 @@
+SKU,Category,Current_Stock,Forecast_7D,Coverage_Days,Status,Action,Overstock_Value_INR
+Amul Full Cream Milk 1L,DAIRY,980,2400,2.9,Stockout Risk,Reorder Now,0
+Nandini Curd 400g,DAIRY,650,800,5.7,Normal,On Track,0
+Lay's Classic Salted 50g,BEVERAGES,420,1800,1.2,Stockout Risk,Reorder Now,0
+Britannia Good Day 80g,BREAD/BAKERY,1100,900,8.6,Normal,On Track,0
+Whole Wheat Bread 400g,BREAD/BAKERY,280,950,2.1,Stockout Risk,Reorder Now,0
+Basmati Rice 5kg,GROCERY I,4100,1600,17.9,Overstocked,Promote/Bundle,41000
+Aashirvaad Atta 5kg,GROCERY I,2200,1100,14.0,Overstocked,Promote/Bundle,28000
+Tomatoes 1kg,PRODUCE,740,1200,4.3,Normal,On Track,0
+Fresh Spinach 250g,PRODUCE,190,880,1.5,Stockout Risk,Reorder Now,0
+Lays Cream Onion 26g,BEVERAGES,1800,700,18.0,Overstocked,Promote/Bundle,12000
+Farm Eggs (6 pack),EGGS,560,1400,2.8,Stockout Risk,Reorder Now,0
+McCain Frozen Fries 400g,FROZEN FOODS,320,480,4.7,Normal,On Track,0
